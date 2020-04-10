@@ -1,0 +1,19 @@
+{
+  "name": "fakebank",
+  "version": "1.0.0",
+  "description": "Fakebank apps and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakebank/fakebank.git"
+  },
+  "author": "Haci Murat Yaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakebank/fakebank/issues"
+  },
+  "homepage": "https://github.com/fakebank/fakebank#readme"
+}
